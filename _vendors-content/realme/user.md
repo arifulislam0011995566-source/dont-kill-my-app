@@ -1,10 +1,24 @@
----
+--ArifUl
+Islam 
+Yt
+v
+-r
+h
+b
+n
+b
+b
+hb
+sgvxj
+hd
+bmv
+
 manufacturer: 
     - realme
 
----
+---5
 
-Luckily, the system restrictions are all gathered at one place in the system settings in the Battery section, and also have some description there.
+'Luckily, the system restrictions are all gathered at one place in the system settings in the Battery section, and also have some description there.
 
 <div class="img-block">
   <figure>
